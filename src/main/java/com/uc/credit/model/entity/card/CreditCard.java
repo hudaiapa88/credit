@@ -1,4 +1,4 @@
-package com.uc.credit.model.entity.cart;
+package com.uc.credit.model.entity.card;
 
 import com.uc.credit.model.entity.account.CreditAccount;
 import com.uc.credit.model.enums.CardType;
